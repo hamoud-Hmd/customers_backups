@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='UTF-8'?><rsm:CrossIndustryInvoice xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100">
+                <rsm:ExchangedDocumentContext>
+                    <ram:GuidelineSpecifiedDocumentContextParameter>
+                        <ram:ID>urn:cen.eu:en16931:2017</ram:ID>
+                    </ram:GuidelineSpecifiedDocumentContextParameter>
+                </rsm:ExchangedDocumentContext>
+                <rsm:ExchangedDocument>
+                    <ram:ID>NERFAC2022171</ram:ID>
+                    <ram:TypeCode>380</ram:TypeCode>
+                    <ram:IssueDateTime>
+                        <udt:DateTimeString format="102">20220616</udt:DateTimeString>
+                    </ram:IssueDateTime>
+                    <ram:IncludedNote>
+                        <ram:Content><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><hr><p><br></p><p><b><span style="font-size:14.0pt">Conditions Générales de Vente</span></b></p>
+<p><b><u></u></b><br></p><p><span style="font-size:10.0pt"> Article 1 - OBJET ET DOMAINE D'APPLICATION</span></p><p><span style="font-size:10.0pt">Les présentes
+conditions générales ont pour objet de régir les relations contractuelles entre
+un donneur d'ordre et un ''Opérateur de transport et/ou de logistique'',
+ci-après dénommé CAT LOGISTICS, au titre de tout engagement ou opération quelconque
+en lien avec le déplacement physique, par tout mode de transport, et/ou la
+gestion physique ou juridique de stocks et flux de toute marchandise, emballée
+ou non, de toute provenance et pour toute destination et/ou en lien avec la
+gestion de tout flux d'informations matérialisé ou dématérialisé.</span></p><p><br></p><p><span style="font-size:10.0pt">Les présentes
+conditions générales prévalent sur toutes autres conditions générales ou
+particulières émanant du donneur d'ordre.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">En cas de conditions
+particulières convenues avec le donneur d'ordre et dans le silence de ces
+dernières, les conditions générales continuent à s'appliquer.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 2 - PRIX DES
+PRESTATIONS</span></p>
+<p><span style="font-size:10.0pt">2.1 - Les prix sont
+calculés sur la base des informations fournies par le donneur d'ordre, en
+tenant compte notamment des prestations à effectuer, de la nature, du poids, et
+du volume de la marchandise à transporter et des itinéraires à emprunter. Les
+cotations sont établies en fonction du taux des devises au moment où lesdites
+cotations sont données. Elles sont également fonction des conditions et tarifs
+des substitues ainsi que des lois, règlements et conventions internationales en
+vigueur. Si un ou plusieurs de ces éléments de base se trouvaient modifiés
+après la remise de la cotation, y compris par les substitues de CAT LOGISTICS,
+de façon opposable à ce dernier, et sur la preuve rapportée par celui-ci, les
+prix donnés primitivement seraient modifiés dans les mêmes conditions. Il en
+serait de même en cas d'évènement imprévu, quel qu'il soit, entrainant
+notamment une modification de l'un des éléments de la prestation.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">2.2 - Sauf clairement
+mentionner sur la facture, les prix ne comprennent pas les droits, taxes,
+redevances et impôts dus en application de toute règlementation notamment
+fiscale ou douanière.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">2.3 - Toutes les cotations
+données, toutes les offres de prix ponctuelles fournies, ainsi que les tarifs
+généraux sont établis et/ou publiés en tenant compte des limitations de
+responsabilité ci-dessus énoncées.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 3 - ASSURANCE
+DES MARCHANDISES</span></p>
+<p><span style="font-size:10.0pt">Aucune assurance n'est
+souscrite par CAT LOGISTICS sans ordre écrit et répété du donneur d'ordre pour
+chaque expédition, précisant les risques à couvrir et les valeurs à garantir.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Si un tel ordre est
+donné, CAT LOGISTICS, agissant pour le compte du donneur d'ordre, contracte une
+assurance auprès d'une compagnie d'assurance notoirement solvable au moment de
+la couverture. A défaut de spécification précise, seuls les risques ordinaires
+(hors risques de guerre et de grève) seront assurés. Intervenant dans ce cas
+précis comme mandataire, CAT LOGISTICS ne peut être considéré en aucun cas
+comme assureur. Les conditions de la police d'assurance sont réputées connues
+et agréées par les expéditeurs et les destinataires qui en supportent le cout.
+Un certificat d'assurance sera émis, s'il est demandé.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 4 - EXECUTION
+DES PRESTATIONS</span></p>
+<p><span style="font-size:10.0pt">Les dates de départ et
+d'arrivée éventuellement communiquées par CAT LOGISTICS sont données à titre
+purement indicatif. Le donneur d'ordre est tenu de donner en temps utile les
+instructions nécessaires et précises à CAT LOGISTICS pour l'exécution des
+prestations de transport et des prestations accessoires et/ou des prestations
+logistiques.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">CAT LOGISTICS n'a pas
+à vérifier les documents (facture commerciale, note de colisage, etc.) fournis
+par le donneur d'ordre.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Toutes instructions
+spécifiques à la livraison (contre remboursement, déclaration de valeur ou
+assurance, intérêt spécial à la livraison, etc.) doivent faire l'objet d'un
+ordre écrit et répété pour chaque envoi et de l'acceptation expresse de CAT
+LOGISTICS.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 5 -
+OBLIGATIONS DU DONNEUR D'ORDRE</span></p>
+<p><span style="font-size:10.0pt">5.1 - Emballage et
+étiquetage :</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.1.1 - Emballage :</span></p>
+<p><span style="font-size:10.0pt">La marchandise doit
+être conditionnée, emballée, marquée ou contremarquée, de façon à supporter un
+transport et/ou une opération de stockage exécutée dans des conditions
+normales, ainsi que les manutentions successives qui interviennent
+nécessairement pendant le déroulement de ces opérations.</span></p><p><span style="font-size:10.0pt">Elle ne doit pas
+constituer une cause de danger pour les personnels de conduite ou de
+manutention, l'environnement, la sécurité des engins de transport, les autres
+marchandises transportées ou stockées, les véhicules ou les tiers. Le donneur
+d'ordre répond seul du choix du conditionnement et de son aptitude à supporter
+le transport et la manutention.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.1.2 - Étiquetage :</span></p>
+<p><span style="font-size:10.0pt">Sur chaque colis,
+objet ou support de charge, un étiquetage clair doit être effectué pour
+permettre une identification immédiate et sans équivoque de l'expéditeur, du
+destinataire, du lieu de livraison et de la nature de la marchandise. Les
+mentions des étiquettes doivent correspondre à celles qui figurent sur le
+document de transport. L'étiquetage doit en outre</span></p><p><span style="font-size:10.0pt">Satisfaire toute
+réglementation applicable notamment celle relative aux produits dangereux.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.1.3 - Responsabilité
+:</span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre
+répond de toutes les conséquences d'une absence, d'une insuffisance ou d'une
+défectuosité du conditionnement, de l'emballage, du marquage ou de l'étiquetage.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.2 - Plombage :</span></p>
+<p><span style="font-size:10.0pt">Les camions, les
+semi-remorques, les caisses mobiles, les conteneurs, complets une fois les
+opérations de chargement terminées, sont plombés par le chargeur lui-même ou
+par son représentant.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.3 - Obligations déclaratives
+:</span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre
+répond de toutes les conséquences d'un manquement a l'obligation d'information
+et de déclaration sur la nature très exacte et de la spécificité de la
+marchandise quand cette dernière requiert des dispositions particulières, eut égard
+notamment à sa valeur et/ou aux convoitises qu'elle est susceptible de
+susciter, de sa dangerosité ou de sa fragilité. Cette obligation d'information
+s'applique également à la déclaration de la masse brute vérifiée d'un conteneur
+conformément à la Convention SOLAS. Par ailleurs, le donneur d'ordre s'engage
+expressément à ne pas remettre à CAT LOGISTICS des marchandises illicites ou
+prohibées (par exemple des produits de contrefaçon, des stupéfiants, etc.).</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre
+supporte seul, sans recours contre CAT LOGISTICS, les conséquences, quelles
+qu'elles soient, résultant de déclarations ou documents erronés, incomplets,
+inapplicables, ou fournis tardivement, en ce comprises les informations
+nécessaires à la transmission de toute déclaration exigée par la réglementation
+douanière, notamment pour les transports de marchandises en provenance de pays
+tiers.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.4 - Réserves :</span></p>
+<p><span style="font-size:10.0pt">En cas de perte,
+d'avarie ou de tout autre dommage subi par la marchandise, ou en cas de retard,
+il appartient au destinataire ou au réceptionnaire de procéder aux
+constatations régulières et suffisantes, de prendre des réserves motivées et en
+général d'effectuer tous les actes utiles à la conservation des recours et à
+confirmer lesdites réserves dans les formes et les délais légaux, faute de quoi
+aucune action ne pourra être exercée contre CAT LOGISTICS ou ses substitues.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.5 - Refus ou
+défaillance du destinataire :</span></p>
+<p><span style="font-size:10.0pt">En cas de refus des
+marchandises par le destinataire, comme en cas de défaillance de ce dernier
+pour quelque cause que ce soit, tous les frais initiaux et supplémentaires dus
+et engagés pour le compte de la marchandise resteront à la charge du donneur
+d'ordre.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.6 - Formalités
+douanières :</span></p>
+<p><span style="font-size:10.0pt">Si des opérations
+douanières doivent être accomplies, le donneur d'ordre garantit le représentant
+en douane de toutes les conséquences financières découlant destructions
+erronées, de documents inapplicables, etc. entrainant d'une façon générale une
+liquidation de droits et/ou de taxes supplémentaires, un blocage ou saisie des
+marchandises, des amendes, etc. de l'administration concernée. En cas de
+dédouanement de marchandises au bénéfice d'un régime préférentiel conclu le
+donneur d'ordre garantit avoir fait toutes diligences au sens de la
+réglementation douanière visant à s'assurer que toutes les conditions pour le
+traitement du régime préférentiel ont été respectées. Le donneur d'ordre doit,
+sur demande de CAT LOGISTICS, fournir à ce dernier, dans le délai requis, toute
+information qui lui sera réclamée au titre des exigences de la réglementation
+douanière. La non-fourniture de ces informations dans ce délai a pour effet de
+rendre responsable le donneur d'ordre de toutes les conséquences préjudiciables
+de ce manquement au titre de retards, surcouts, avaries, etc. </span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Toutefois, les règles
+de qualité et/ou de normalisation technique des marchandises relevant de la
+seule responsabilité du donneur d'ordre, il lui appartient de fournir à CAT
+LOGISTICS tous documents (tests, certificats, etc.) exigés par la
+réglementation pour leur circulation. CAT LOGISTICS n'encourt aucune
+responsabilité du fait de la non- conformité des marchandises auxdites règles
+de qualité ou de normalisation technique.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Le représentant en
+douane dédouane sous le mode de la représentation directe, conformément à la
+législation en vigueur.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">5.7 - Livraison contre
+remboursement</span></p>
+<p><span style="font-size:10.0pt">La stipulation d'une
+livraison contre remboursement ne vaut pas déclaration de valeur et ne modifie
+donc pas les régies d'indemnisation pour pertes et avaries telles que définies
+par la législation en vigueur.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 6 –
+RESPONSABILITE</span></p>
+<p><span style="font-size:10.0pt">CAT LOGITICS exécute
+des missions conformément aux us, coutumes et règlements locaux en vigueur. </span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Le Prestataire n’est
+responsable que des dommages et/ou pertes qui sont la conséquence directe de sa
+faute dument établie et à condition que des réserves précises et motivées aient
+été prises dans les formes et délais légaux et que les dommages et/ou pertes
+aient été constatées contradictoirement. </span></p>
+<p><span style="font-size:10.0pt">Dans tous les cas où
+la responsabilité de CAT LOGISTICS serait engagée, pour quelque cause et à
+quelque titre que ce soit, elle est strictement limitée, pour tous les dommages
+à la marchandise imputables à toute opération par suite de pertes et avaries et
+pour toutes les conséquences pouvant en résulter, à 5.000
+FCFA par kilogramme de poids brut de la marchandise. Toutefois, lorsque
+l’expéditeur a fait à la lettre de voiture une déclaration de valeur ou une
+déclaration d’intérêt spécial à la livraison, l’indemnité́ pour le préjudice
+subi ne peut excéder le montant indiqué dans la déclaration.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">6.2.2 - Autres
+dommages :</span></p>
+<p><span style="font-size:10.0pt">Pour tous les autres
+dommages, y compris en cas de retard de livraison dument constaté, au cas où sa
+responsabilité personnelle serait engagée, la réparation due par CAT LOGISTICS
+est strictement limitée au prix du transport de la marchandise (droits, taxes
+et frais divers exclus) ou à celui de la prestation a l'origine du dommage,
+objet du contrat. Cette Indemnité ne pourra excéder celle qui est due en cas de
+perte ou d'avarie de la marchandise.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">6.2.3 - Responsabilité
+en matière douanière :</span></p>
+<p><span style="font-size:10.0pt">La responsabilité de
+CAT LOGISTICS pour toute opération en matière de douane ou de contribution
+indirecte qu'elle soit réalisée par ses soins ou par ceux de ses sous-
+traitants ne pourra excéder un montant équivalent à trois (3) fois sa
+rémunération au titre de la déclaration en douane.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">6.3 - Déclaration de
+valeur ou assurance :</span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre a
+toujours la faculté de souscrire une déclaration de valeur qui, fixée par lui
+et acceptée par CAT LOGISTICS, a pour effet de substituer le montant de cette
+déclaration aux plafonds d'indemnité. Cette déclaration de valeur entrainera un
+supplément de prix.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre
+peut également donner instructions à CAT LOGISTICS, conformément (Assurance des
+marchandises) à la loi en vigueur, de souscrire pour son compte une assurance,
+moyennant le paiement de la prime correspondante, en lui précisant les risques
+à couvrir et les valeurs à garantir.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Les instructions
+(déclaration de valeur ou assurance) doivent être renouvelées pour chaque
+opération.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">6.4 - Intérêt spécial à
+la livraison :</span></p>
+<p><span style="font-size:10.0pt">Le donneur d'ordre a
+toujours la faculté de faire une déclaration d'intérêt spécial à la livraison
+qui, fixée par lui et acceptée par CAT LOGISTICS, a pour effet, en cas de
+retard, de substituer le montant de cette déclaration aux plafonds d'indemnité
+indiqué par la législation en vigueur. Cette déclaration entrainera un
+supplément de prix. Les instructions doivent être renouvelées pour chaque
+opération.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 7 - CONDITIONS
+DE PAIEMENT</span></p>
+<p><span style="font-size:10.0pt">7.1 - Les prestations
+de service sont payables selon les conditions négociées qui peuvent être au
+comptant à réception de la facture, sans escompte, au lieu de l'émission de
+celle-ci, et en tout état de cause, dans un délai qui ne peut excéder 30 jours
+à compter de sa date d'émission. Le donneur d’ordre est toujours garant de leur
+acquittement. </span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Le débiteur est réputé
+avoir été mis en demeure de payer par la seule exigibilité de l'obligation.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">7.2 - La compensation
+unilatérale du montant des dommages allégués sur le prix des prestations dues
+est interdite.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">7.3 - Tout retard dans
+le paiement entraine de plein droit, le jour suivant la date de règlement
+figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant
+équivalent à 10 % du montant facturé. Les intérêts de retard sont dus pour
+chaque période de sept (7) jours calendaires. Le total des intérêts de retard
+est plafonné à la moitié du montant facturé.</span></p>
+<p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 8 - DROIT DE
+RETENTION CONVENTIONNEL ET DROIT DE GAGE CONVENTIONNEL</span></p>
+<p><span style="font-size:10.0pt">Quelle que soit la
+qualité en laquelle CAT LOGISTICS intervient, le donneur d'ordre lui reconnait
+expressément un droit de rétention conventionnel, opposable à tous, et un droit
+de gage conventionnel sur toutes les marchandises, valeurs et documents en possession
+de CAT LOGISTICS., et ce en garantie de la totalité des créances (factures,
+intérêts, frais engages, etc.) que CAT LOGISTICS détient contre lui, même
+antérieures ou étrangères aux opérations effectuées au regard des marchandises,
+valeurs et documents qui se trouvent effectivement entre ses mains.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 9 -
+PRESCRIPTION</span></p>
+<p><span style="font-size:10.0pt">Toutes les actions
+auxquelles le contrat conclu entre les parties peut donner lieu, que ce soit
+pour les prestations principales ou accessoires, sont prescrites dans le délai
+d'un an à compter de l'exécution de la prestation litigieuse dudit contrat et,
+en matière de droits et taxes recouvrés a posteriori, à compter de la
+notification du redressement. </span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 10 -
+ANNULATION - INVALIDITE</span></p>
+<p><span style="font-size:10.0pt">Au cas où l'une
+quelconque des dispositions des présentes Conditions Générales de Vente serait
+déclarée nulle ou réputée non écrite, toutes les autres dispositions
+resteraient applicables.</span></p><p><span style="font-size:10.0pt"> </span></p>
+<p><span style="font-size:10.0pt">Article 11- LOI
+APPLICABLE – ATTRIBUTION DE COMPÉTENCE</span></p>
+<p><span style="font-size:10.0pt">Tout litige ou
+contestation sera soumis à la loi du pays du Prestataire et sera porté devant
+le Tribunal du siège social du Prestataire, qui sera seul compétent pour en
+connaitre, même en cas de pluralité de défendeurs ou d’appels en garantie. </span></p><p><br></p></ram:Content>
+                    </ram:IncludedNote>
+                </rsm:ExchangedDocument>
+                <rsm:SupplyChainTradeTransaction>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>1</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Manutention</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>90000</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>90000</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>90000</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>2</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Ecor à Domicile</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>150000</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>150000</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">2.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>300000</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>3</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Modification T1</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount>25000</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                        <ram:NetPriceProductTradePrice>
+                            <ram:ChargeAmount>25000</ram:ChargeAmount>
+                        </ram:NetPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity unitCode="C62">2.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount>50000</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                    <ram:ApplicableHeaderTradeAgreement>
+                        <ram:SellerTradeParty>
+                <ram:Name>CAT LOGISTICS NIGER</ram:Name>
+                <ram:SpecifiedLegalOrganization>
+                    <ram:ID>RCCM-NI-NIM-2005-B-094</ram:ID>
+                </ram:SpecifiedLegalOrganization>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>Rue de la Cote d&#39;Ivoire</ram:LineOne>
+                    <ram:LineTwo>BP 12963</ram:LineTwo>
+                    <ram:CityName>Niamey</ram:CityName>
+                    <ram:CountryID>NE</ram:CountryID>
+                </ram:PostalTradeAddress>
+                            <ram:SpecifiedTaxRegistration>
+                                <ram:ID schemeID="VA">NIF 3640/R</ram:ID>
+                            </ram:SpecifiedTaxRegistration>
+                        </ram:SellerTradeParty>
+                        <ram:BuyerTradeParty>
+                <ram:Name>UNICEF</ram:Name>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>2, RUE DES OASIS PLATEAU</ram:LineOne>
+                    <ram:LineTwo>BP 12481</ram:LineTwo>
+                    <ram:CityName>Niamey</ram:CityName>
+                    <ram:CountryID>NE</ram:CountryID>
+                </ram:PostalTradeAddress>
+                            <ram:SpecifiedTaxRegistration>
+                                <ram:ID schemeID="VA">5011</ram:ID>
+                            </ram:SpecifiedTaxRegistration>
+                        </ram:BuyerTradeParty>
+                        <ram:BuyerOrderReferencedDocument>
+                            <ram:IssuerAssignedID>NERFAC2022171</ram:IssuerAssignedID>
+                        </ram:BuyerOrderReferencedDocument>
+                    </ram:ApplicableHeaderTradeAgreement>
+                    <ram:ApplicableHeaderTradeDelivery>
+                        <ram:ShipToTradeParty>
+                <ram:Name>UNICEF</ram:Name>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>2, RUE DES OASIS PLATEAU</ram:LineOne>
+                    <ram:LineTwo>BP 12481</ram:LineTwo>
+                    <ram:CityName>Niamey</ram:CityName>
+                    <ram:CountryID>NE</ram:CountryID>
+                </ram:PostalTradeAddress>
+                        </ram:ShipToTradeParty>
+                    </ram:ApplicableHeaderTradeDelivery>
+                    <ram:ApplicableHeaderTradeSettlement>
+                        <ram:InvoiceCurrencyCode>XOF</ram:InvoiceCurrencyCode>
+                        <ram:BillingSpecifiedPeriod>
+                            <ram:StartDateTime>
+                                <udt:DateTimeString format="102">20220616</udt:DateTimeString>
+                            </ram:StartDateTime>
+                        </ram:BillingSpecifiedPeriod>
+                        <ram:SpecifiedTradePaymentTerms>
+                            <ram:Description>30 jours</ram:Description>
+                            <ram:DueDateDateTime>
+                                <udt:DateTimeString format="102">20220716</udt:DateTimeString>
+                            </ram:DueDateDateTime>
+                        </ram:SpecifiedTradePaymentTerms>
+                        <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                            <ram:LineTotalAmount>440000</ram:LineTotalAmount>
+                            <ram:TaxBasisTotalAmount>440000</ram:TaxBasisTotalAmount>
+                            <ram:TaxTotalAmount currencyID="XOF">0</ram:TaxTotalAmount>
+                            <ram:GrandTotalAmount>440000</ram:GrandTotalAmount>
+                            <ram:TotalPrepaidAmount>0</ram:TotalPrepaidAmount>
+                            <ram:DuePayableAmount>440000</ram:DuePayableAmount>
+                        </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                    </ram:ApplicableHeaderTradeSettlement>
+                </rsm:SupplyChainTradeTransaction>
+            </rsm:CrossIndustryInvoice>
