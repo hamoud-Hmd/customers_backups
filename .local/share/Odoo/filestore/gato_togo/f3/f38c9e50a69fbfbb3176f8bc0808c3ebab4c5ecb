@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?><rsm:CrossIndustryInvoice xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100">
+                <rsm:ExchangedDocumentContext>
+                    <ram:GuidelineSpecifiedDocumentContextParameter>
+                        <ram:ID>urn:cen.eu:en16931:2017</ram:ID>
+                    </ram:GuidelineSpecifiedDocumentContextParameter>
+                </rsm:ExchangedDocumentContext>
+                <rsm:ExchangedDocument>
+                    <ram:ID>INV/2022/00018</ram:ID>
+                    <ram:TypeCode>380</ram:TypeCode>
+                    <ram:IssueDateTime>
+                        <udt:DateTimeString format="102">20220517</udt:DateTimeString>
+                    </ram:IssueDateTime>
+                    <ram:IncludedNote>
+                        <ram:Content><p><span style="font-weight: bolder;">2856.00 TONNES DE CLINKER EN VRAC VIA AFLAO (AVRIL 2022) / REP 0197/22</span></p><p><span style="font-weight: bolder;">TABLIGBO</span></p><p><br></p><p><br></p><p>
+</p><p><b><u>IRREVOCABLE BANK DETAILS:</u></b></p>
+<p><b>Bank Name: ORABANK TOGO</b></p>
+<p><b>Address: Place de l’Indépendance, Angle avenue
+des Nîmes et avenue Nicolas Grunitzky</b></p>
+<p><b>BP : 65 Lomé- TOGO; Tel.: 22 21 36 42/41
+---   FAX: +228 22 21 44 56</b></p>
+<p><b>Account no: 040230477223     Beneficiary name: GROUPE GATO S.A.U.</b></p>
+<p><b>IBAN N°: TG53TG1160110204023047722340     BIC/SWIFT code: ORBKTGTG     Country: 
+TOGO</b></p>
+<p><b>Correspondent: DZ BANK     Corr. SWIFT/BIC: GENODEFF</b></p>
+<p><b>City: Lome    
+Currency: CFA Franc BCEAO (XOF)</b></p>
+<br><p></p></ram:Content>
+                    </ram:IncludedNote>
+                </rsm:ExchangedDocument>
+                <rsm:SupplyChainTradeTransaction>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>1</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>DEPLACEMENT (2856.00 X 13)</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">37128</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">37128</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                    <ram:ApplicableHeaderTradeAgreement>
+                        <ram:SellerTradeParty>
+                <ram:Name>GROUPE GATO LOGISTICS</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>GROUPE GATO LOGISTICS</ram:PersonName>
+                    <ram:TelephoneUniversalCommunication>
+                        <ram:CompleteNumber>(+228) 22 27 94 57</ram:CompleteNumber>
+                    </ram:TelephoneUniversalCommunication>
+                    <ram:EmailURIUniversalCommunication>
+                        <ram:URIID schemeID="SMTP">gato@groupegato.com</ram:URIID>
+                    </ram:EmailURIUniversalCommunication>
+                </ram:DefinedTradeContact>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>Lomé</ram:LineOne>
+                    <ram:LineTwo>Rond Point du Port, Place des 4 Etoiles Zone Portuaire - BP 61088</ram:LineTwo>
+                    <ram:CityName>Lomé</ram:CityName>
+                    <ram:CountryID>TG</ram:CountryID>
+                </ram:PostalTradeAddress>
+                        </ram:SellerTradeParty>
+                        <ram:BuyerTradeParty>
+                <ram:Name>WACEM</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>WACEM</ram:PersonName>
+                </ram:DefinedTradeContact>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>B.P. 9159 / TABLIGBO - TOGO</ram:LineOne>
+                </ram:PostalTradeAddress>
+                        </ram:BuyerTradeParty>
+                        <ram:BuyerOrderReferencedDocument>
+                            <ram:IssuerAssignedID>INV/2022/00018: INV/2022/00018</ram:IssuerAssignedID>
+                        </ram:BuyerOrderReferencedDocument>
+                    </ram:ApplicableHeaderTradeAgreement>
+                    <ram:ApplicableHeaderTradeDelivery>
+                        <ram:ShipToTradeParty>
+                <ram:Name>WACEM</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>WACEM</ram:PersonName>
+                </ram:DefinedTradeContact>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>B.P. 9159 / TABLIGBO - TOGO</ram:LineOne>
+                </ram:PostalTradeAddress>
+                        </ram:ShipToTradeParty>
+                    </ram:ApplicableHeaderTradeDelivery>
+                    <ram:ApplicableHeaderTradeSettlement>
+                        <ram:SpecifiedTradePaymentTerms>
+                            <ram:DueDateDateTime>
+                                <udt:DateTimeString>20220624</udt:DateTimeString>
+                            </ram:DueDateDateTime>
+                        </ram:SpecifiedTradePaymentTerms>
+                        <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">37128</ram:LineTotalAmount>
+                            <ram:TaxBasisTotalAmount currencyID="XOF">37128</ram:TaxBasisTotalAmount>
+                            <ram:TaxTotalAmount currencyID="XOF">0</ram:TaxTotalAmount>
+                            <ram:GrandTotalAmount currencyID="XOF">37128</ram:GrandTotalAmount>
+                            <ram:TotalPrepaidAmount currencyID="XOF">0</ram:TotalPrepaidAmount>
+                            <ram:DuePayableAmount currencyID="XOF">37128</ram:DuePayableAmount>
+                        </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                    </ram:ApplicableHeaderTradeSettlement>
+                </rsm:SupplyChainTradeTransaction>
+            </rsm:CrossIndustryInvoice>

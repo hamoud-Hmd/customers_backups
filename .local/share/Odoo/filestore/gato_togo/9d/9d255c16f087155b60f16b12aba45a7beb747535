@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?><rsm:CrossIndustryInvoice xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100">
+                <rsm:ExchangedDocumentContext>
+                    <ram:GuidelineSpecifiedDocumentContextParameter>
+                        <ram:ID>urn:cen.eu:en16931:2017</ram:ID>
+                    </ram:GuidelineSpecifiedDocumentContextParameter>
+                </rsm:ExchangedDocumentContext>
+                <rsm:ExchangedDocument>
+                    <ram:ID>INV/2022/00012</ram:ID>
+                    <ram:TypeCode>380</ram:TypeCode>
+                    <ram:IssueDateTime>
+                        <udt:DateTimeString format="102">20220517</udt:DateTimeString>
+                    </ram:IssueDateTime>
+                </rsm:ExchangedDocument>
+                <rsm:SupplyChainTradeTransaction>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>1</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>CUSTOMS FORMALITIES</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">340</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">340</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>2</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>HANDLING FEES</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">1105</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">1105</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>3</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>TRANSPORT</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">700</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">700</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>4</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Files fees</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">9</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">9</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                <ram:IncludedSupplyChainTradeLineItem>
+                    <ram:AssociatedDocumentLineDocument>
+                        <ram:LineID>5</ram:LineID>
+                    </ram:AssociatedDocumentLineDocument>
+                    <ram:SpecifiedTradeProduct>
+                        <ram:Name>Agency fees</ram:Name>
+                    </ram:SpecifiedTradeProduct>
+                    <ram:SpecifiedLineTradeAgreement>
+                        <ram:GrossPriceProductTradePrice>
+                            <ram:ChargeAmount currencyID="XOF">255</ram:ChargeAmount>
+                        </ram:GrossPriceProductTradePrice>
+                    </ram:SpecifiedLineTradeAgreement>
+                    <ram:SpecifiedLineTradeDelivery>
+                        <ram:BilledQuantity>1.0</ram:BilledQuantity>
+                    </ram:SpecifiedLineTradeDelivery>
+                    <ram:SpecifiedLineTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradeSettlementLineMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">255</ram:LineTotalAmount>
+                        </ram:SpecifiedTradeSettlementLineMonetarySummation>
+                    </ram:SpecifiedLineTradeSettlement>
+                </ram:IncludedSupplyChainTradeLineItem>
+                    <ram:ApplicableHeaderTradeAgreement>
+                        <ram:SellerTradeParty>
+                <ram:Name>GROUPE GATO LOGISTICS</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>GROUPE GATO LOGISTICS</ram:PersonName>
+                    <ram:TelephoneUniversalCommunication>
+                        <ram:CompleteNumber>(+228) 22 27 94 57</ram:CompleteNumber>
+                    </ram:TelephoneUniversalCommunication>
+                    <ram:EmailURIUniversalCommunication>
+                        <ram:URIID schemeID="SMTP">gato@groupegato.com</ram:URIID>
+                    </ram:EmailURIUniversalCommunication>
+                </ram:DefinedTradeContact>
+                <ram:PostalTradeAddress>
+                    <ram:LineOne>Lomé</ram:LineOne>
+                    <ram:LineTwo>Rond Point du Port, Place des 4 Etoiles Zone Portuaire - BP 61088</ram:LineTwo>
+                    <ram:CityName>Lomé</ram:CityName>
+                    <ram:CountryID>TG</ram:CountryID>
+                </ram:PostalTradeAddress>
+                        </ram:SellerTradeParty>
+                        <ram:BuyerTradeParty>
+                <ram:Name>FENDEREIGHT LTD</ram:Name>
+                <ram:DefinedTradeContact>
+                    <ram:PersonName>FENDEREIGHT LTD</ram:PersonName>
+                </ram:DefinedTradeContact>
+                <ram:PostalTradeAddress>
+                </ram:PostalTradeAddress>
+                        </ram:BuyerTradeParty>
+                        <ram:BuyerOrderReferencedDocument>
+                            <ram:IssuerAssignedID>INV/2022/00012: INV/2022/00012</ram:IssuerAssignedID>
+                        </ram:BuyerOrderReferencedDocument>
+                    </ram:ApplicableHeaderTradeAgreement>
+                    <ram:ApplicableHeaderTradeDelivery>
+                    </ram:ApplicableHeaderTradeDelivery>
+                    <ram:ApplicableHeaderTradeSettlement>
+                            <ram:ApplicableTradeTax>
+                                <ram:CalculatedAmount currencyID="XOF">46</ram:CalculatedAmount>
+                                <ram:BasisAmount currencyID="XOF">255</ram:BasisAmount>
+                                <ram:RateApplicablePercent>18.0</ram:RateApplicablePercent>
+                            </ram:ApplicableTradeTax>
+                        <ram:SpecifiedTradePaymentTerms>
+                            <ram:DueDateDateTime>
+                                <udt:DateTimeString>20220517</udt:DateTimeString>
+                            </ram:DueDateDateTime>
+                        </ram:SpecifiedTradePaymentTerms>
+                        <ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                            <ram:LineTotalAmount currencyID="XOF">2409</ram:LineTotalAmount>
+                            <ram:TaxBasisTotalAmount currencyID="XOF">2409</ram:TaxBasisTotalAmount>
+                            <ram:TaxTotalAmount currencyID="XOF">46</ram:TaxTotalAmount>
+                            <ram:GrandTotalAmount currencyID="XOF">2455</ram:GrandTotalAmount>
+                            <ram:TotalPrepaidAmount currencyID="XOF">0</ram:TotalPrepaidAmount>
+                            <ram:DuePayableAmount currencyID="XOF">2455</ram:DuePayableAmount>
+                        </ram:SpecifiedTradeSettlementHeaderMonetarySummation>
+                    </ram:ApplicableHeaderTradeSettlement>
+                </rsm:SupplyChainTradeTransaction>
+            </rsm:CrossIndustryInvoice>
